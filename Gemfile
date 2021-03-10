@@ -14,7 +14,7 @@ gem "middleman-livereload", "~> 3.1.0"
 gem "slim", "~> 2.0.2"
 
 # For Markdown
-gem "redcarpet", "~> 3.1.1"
+gem "redcarpet", "~> 3.5.1"
 
 # For blog summary
 gem "nokogiri", "~> 1.6.1"
